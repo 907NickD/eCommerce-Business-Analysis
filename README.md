@@ -34,5 +34,6 @@ File Structure
 Recommendations
 
     Optimize Landing Pages: Improve design and content for higher conversion rates.
-    Target High-Value Cohorts: Focus marketing efforts on customer segments with higher retention and 	lifetime value.
+    Target High-Value Cohorts: Focus marketing efforts on customer segments with higher 
+    retention and lifetime value.
     Seasonal Promotions: Leverage successful seasonal campaigns to boost future sales.
